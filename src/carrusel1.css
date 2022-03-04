@@ -1,0 +1,26 @@
+.slider_react{
+    max-width: 1366px;
+    margin: auto;
+   
+   
+    
+   
+    
+}
+
+.slider_react img{
+    width: 100%;
+    cursor: pointer;
+    
+}
+
+.img_carousel img{
+    
+    padding: 20px;
+
+}
+.img_carousel img:hover{
+    opacity: .8;
+    padding: 20px;
+
+}

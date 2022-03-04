@@ -1,0 +1,129 @@
+.btn_ver_mas{
+    background-color: #68C8E4;
+    text-align: center;
+    width: 150px;
+    padding: 20px;
+    margin: auto;
+    margin-bottom: 80px;
+    cursor: pointer;
+    margin-top: 20px;
+    color: white;
+    box-shadow: 2px 2px 5px #999;
+    transition: all 0.4s;
+    font-size: 1.2em;
+}
+.btn_ver_mas:hover{
+    transform: scale(1.1);
+}
+
+.nosotros{
+    max-width: 1280px;
+    margin: auto;
+    margin-bottom: 50px;
+    line-height: 2.2em;
+    text-align: center;
+    padding: 20px;
+}
+
+.que_hacemos_flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 1366px;
+    margin: auto;
+    flex-wrap: wrap;
+    font-size: .9em;
+}
+
+.box{
+    width: 250px;
+    height: 400px;
+    background-color: #519cb3;
+    padding: 20px;
+    box-shadow: 2px 2px 5px #999;
+    margin: 10px;
+    /* background-color: #68C8E4; */
+    /* background-color: #FEFFA5; */
+    color: white;
+    transition: all 0.4s;
+    
+}
+.box:hover{
+  
+   background-color: #FEFFA5; 
+   color: black;
+/*   background-color: #68C8E4; */
+  
+    cursor: pointer;
+    
+}
+
+.box img{
+    max-width: 100px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.box li{
+    margin-bottom: 20px;
+    list-style: none;
+}
+
+.btn_cotiza{
+    background-color: #68C8E4;
+    text-align: center;
+    width: 150px;
+    padding: 20px;
+    margin: auto;
+    margin-bottom: 100px;
+    margin-top: 20px;
+    cursor: pointer;
+    box-shadow: 2px 2px 5px #999;
+    transition: all 0.4s;
+    color: white;
+    font-size: 1.2em;
+    
+}
+
+.btn_cotiza:hover{
+    transform: scale(1.1);
+}
+
+.desc{
+    max-width: 1280px;
+    margin: auto;
+    line-height: 2.2em;
+    text-align: center;
+    padding: 20px;
+    font-size: 1.1em;
+}
+
+
+.desc_flex{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    padding: 20px;
+    line-height: 2.2em;
+  
+    
+}
+
+.datos_right{
+display: flex;
+
+
+}
+.datos_left{
+  
+
+}
+.datos_right img{
+    border-radius: 50%;
+    width:300px;
+    margin-left: 40px;
+   }
+
+.social{
+    font-size: 3em;
+    margin-top: 30px;
+}

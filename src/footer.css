@@ -1,0 +1,13 @@
+.footer{
+    background-color: rgba(0,0,0,0.7);
+    text-align: center;
+    padding: 20px;
+}
+
+.social_icons{
+    font-size: 2em;
+}
+
+.footer_text{
+    color: white;
+}

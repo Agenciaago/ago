@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    /* font-family: Arial, Helvetica, sans-serif; */
+    
+}
+a{
+    color: white;
+}
+/* 
+COLORES AGO
+
+AMARILLO: FEFFA5
+
+AZUL: 68C8E4
+
+ */
+
+    .active{
+        border-bottom: 1px solid #FFCB4B;
+        color:#FFCB4B;
+      }
+
+
+
+.blue{
+   color:#68C8E4
+}
+.yellow{
+    color:#FEFFA5
+}
+
+.yellow2{
+    color:#FFCB4B
+}
+
+.gray{
+    color: gray;
+}
