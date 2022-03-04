@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/ago/static/css/main.145da14f.css",
+    "main.js": "/ago/static/js/main.186c8765.js",
+    "static/js/787.d2b8b012.chunk.js": "/ago/static/js/787.d2b8b012.chunk.js",
+    "static/media/anahix.PNG": "/ago/static/media/anahix.1629c50bab6d6171020e.PNG",
+    "static/media/ago.png": "/ago/static/media/ago.3538593cc3bc553288e4.png",
+    "static/media/img_header.png": "/ago/static/media/img_header.d79c34f4d6b649d9dea7.png",
+    "static/media/1.jpg": "/ago/static/media/1.0ba36b51498dd4d46abb.jpg",
+    "static/media/3.jpg": "/ago/static/media/3.a86034a38d768601562b.jpg",
+    "static/media/4.jpg": "/ago/static/media/4.d26da32c89b30831efd4.jpg",
+    "static/media/5.jpg": "/ago/static/media/5.d26da32c89b30831efd4.jpg",
+    "static/media/6.jpg": "/ago/static/media/6.d26da32c89b30831efd4.jpg",
+    "static/media/integracion.png": "/ago/static/media/integracion.8cfee5b377f6c76ceee5.png",
+    "static/media/asesoria.png": "/ago/static/media/asesoria.e67e53dfe628f0293777.png",
+    "static/media/capacitacion1.png": "/ago/static/media/capacitacion1.c549c16d40047e288239.png",
+    "static/media/reparaciones.png": "/ago/static/media/reparaciones.a10a27c580f32d49712f.png",
+    "static/media/ingenieria1.png": "/ago/static/media/ingenieria1.8f833823ce5e01e58ee3.png",
+    "static/media/slick.svg": "/ago/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/ago/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/ago/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/ago/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/ago/index.html",
+    "main.145da14f.css.map": "/ago/static/css/main.145da14f.css.map",
+    "main.186c8765.js.map": "/ago/static/js/main.186c8765.js.map",
+    "787.d2b8b012.chunk.js.map": "/ago/static/js/787.d2b8b012.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.145da14f.css",
+    "static/js/main.186c8765.js"
+  ]
+}
